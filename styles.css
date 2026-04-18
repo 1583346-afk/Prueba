@@ -9,6 +9,11 @@ input{
 
 button{
     padding: 10px;
-    background-color: green;
+    background-color: rgb(0, 30, 128);
     color: white;
+}
+
+li {
+    margin: 10px;
+    cursor: pointer;
 }
